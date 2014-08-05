@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.0b.06.11.da4e" icon="Mine.png">
+    <title>Seeed</title>
+    <instances>
+        <instance moduleIdRef="arch_pro_v1" modelIndex="5922" path="/home/beta/.config/Fritzing/parts/contrib/arch_pro_v1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arch_v1.1" modelIndex="5923" path="/home/beta/.config/Fritzing/parts/contrib/arch_v1.1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="seeeduino_v3" modelIndex="5925" path="/home/beta/.config/Fritzing/parts/contrib/seeeduino_v3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_oled_128x96" modelIndex="5924" path="/home/beta/.config/Fritzing/parts/contrib/grove_oled_128x96.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_light_sensor" modelIndex="5927" path="/home/beta/.config/Fritzing/parts/contrib/grove_light_sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_temperature_sensor" modelIndex="5928" path="/home/beta/.config/Fritzing/parts/contrib/grove_temperature_sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_infrared_receiver" modelIndex="5929" path="/home/beta/.config/Fritzing/parts/contrib/grove_infrared_receiver.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_infrared_emitter" modelIndex="5930" path="/home/beta/.config/Fritzing/parts/contrib/grove_infrared_emitter.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_buzz" modelIndex="5932" path="/home/beta/.config/Fritzing/parts/user/grove_buzz.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_button" modelIndex="5940" path="/home/beta/.config/Fritzing/parts/user/grove_button.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_3axis_digital_accelerometer_16g" modelIndex="6148" path="/home/beta/.config/Fritzing/parts/user/grove_3axis_digital_accelerometer_16g.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_4digit_display" modelIndex="6149" path="/home/beta/.config/Fritzing/parts/user/grove_4digit_display.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
