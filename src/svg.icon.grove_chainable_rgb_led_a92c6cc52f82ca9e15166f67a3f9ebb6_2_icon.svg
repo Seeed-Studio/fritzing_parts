@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="81" gorn="0"  version="1.1" id="svg2">
+    <desc >
+        <referenceFile >grove_chainable_rgb_led.svg</referenceFile>
+    </desc>
+    <defs  id="defs13576">
+        <linearGradient  id="linearGradient7795">
+            <stop  id="stop7797" stop-color="#ffffff"/>
+            <stop stop-opacity="0.669231"  offset="0.917808" id="stop7805" stop-color="#e3e3e3"/>
+            <stop stop-opacity="0.561538"  offset="1" id="stop7803" stop-color="#c8c8c8"/>
+        </linearGradient>
+        <radialGradient r="5.314961" href="#linearGradient7795"  id="radialGradient7801" gradientUnits="userSpaceOnUse" cx="40.748032" cy="26.5748"/>
+    </defs>
+    <metadata  id="metadata13579">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="matrix(1 0 0 1 -6.515625 -969.33598)">
+        <g >
+            <g >
+                <g gorn="0.3.0.0.0"  id="layer1">
+                    <g  transform="translate(0,967.32036)">
+                        <g >
+                            <g >
+                                <path d="m 42.53125,1.46875 c -3.099659,0 -5.625,2.525341 -5.625,5.625 l -27,0 c -1.5703937,0 -2.8125,1.2421063 -2.8125,2.8125 l 0,27 c 3.099659,0 5.59375,2.525341 5.59375,5.625 0,3.099659 -2.494091,5.59375 -5.59375,5.59375 l 0,27 c 0,1.570394 1.2421063,2.8125 2.8125,2.8125 l 27,0 c 0,3.099659 2.525341,5.625 5.625,5.625 3.099659,0 5.59375,-2.525341 5.59375,-5.625 l 27,0 c 1.570394,0 2.8125,-1.242106 2.8125,-2.8125 l 0,-27 c -3.099659,0 -5.59375,-2.494091 -5.59375,-5.59375 0,-3.099659 2.494091,-5.625 5.59375,-5.625 l 0,-27 c 0,-1.5703937 -1.242106,-2.8125 -2.8125,-2.8125 l -27,0 c 0,-3.099659 -2.494091,-5.625 -5.59375,-5.625 z m 0,2.375 c 1.794539,0 3.25,1.4554605 3.25,3.25 0,1.7945395 -1.455461,3.25 -3.25,3.25 -1.794539,0 -3.25,-1.4554605 -3.25,-3.25 0,-1.7945395 1.455461,-3.25 3.25,-3.25 z m 0,70.875 c 1.794539,0 3.25,1.424211 3.25,3.21875 0,1.794539 -1.455461,3.25 -3.25,3.25 -1.794539,0 -3.25,-1.455461 -3.25,-3.25 0,-1.794539 1.455461,-3.21875 3.25,-3.21875 z" gorn="0.3.0.0.0.0.0.0.0"  id="rect2992" fill="#274a88"/>
+                            </g>
+                        </g>
+                    </g>
+                    <rect height="14.173215" width="10.629921" gorn="0.3.0.0.0.1"  x="29.547121" y="992.55646" id="rect4321" fill="#1a1a1a"/>
+                    <g  transform="translate(0,2.031255)">
+                        <g >
+                            <g >
+                                <g gorn="0.3.0.0.0.2.0.0.0"  id="g7810">
+                                    <g  transform="translate(6.515625,969.33598)">
+                                        <g >
+                                            <g >
+                                                <path d="m 35.4375,26.71875 c -6.490904,0 -11.75,5.259096 -11.75,11.75 0,6.490904 5.259096,11.75 11.75,11.75 4.292184,0 8.042468,-2.283141 10.09375,-5.71875 l 0,-12.03125 c -2.051282,-3.435609 -5.801566,-5.75 -10.09375,-5.75 z" gorn="0.3.0.0.0.2.0.0.0.0.0.0.0"  id="path4323-1" fill="#ececec"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="matrix(1.8987285,0,0,1.8987285,-35.420753,957.35797)">
+                                        <g >
+                                            <g >
+                                                <path d="m 46.062992,26.5748 c 0,2.935372 -2.379589,5.314961 -5.31496,5.314961 -2.935372,0 -5.314961,-2.379589 -5.314961,-5.314961 0,-2.935371 2.379589,-5.31496 5.314961,-5.31496 2.935371,0 5.31496,2.379589 5.31496,5.31496 z" gorn="0.3.0.0.0.2.0.0.0.1.0.0.0"  id="path4323" fill="url(#radialGradient7801)"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0,-1,1,0,-993.12054,1066.8131)">
+                        <g >
+                            <g >
+                                <g gorn="0.3.0.0.0.3.0.0.0"  id="g7904">
+                                    <g  transform="matrix(1.2499976,0,0,1.2499976,5.654439,-260.7532)">
+                                        <g >
+                                            <g >
+                                                <g gorn="0.3.0.0.0.3.0.0.0.0.0.0.0"  id="g102">
+                                                    <path d="m 15.662983,1029.8187 0,-2.2677 2.267515,0 0,2.2677 -2.267515,0 z" gorn="0.3.0.0.0.3.0.0.0.0.0.0.0.0"  id="connector3pin" fill="#ffe500"/>
+                                                    <path d="m 17.930539,1033.1832 0,2.2677 -2.267556,0 0,-2.2677 2.267556,0 z" gorn="0.3.0.0.0.3.0.0.0.0.0.0.0.1"  id="connector2pin" fill="#ffe500"/>
+                                                    <path d="m 15.662983,1038.9076 2.267515,0 0,2.2677 -2.267515,0 0,-2.2677 z" gorn="0.3.0.0.0.3.0.0.0.0.0.0.0.2"  id="connector1pin" fill="#ffe500"/>
+                                                    <path d="m 15.662983,1044.5859 2.267515,0 0,2.2677 -2.267515,0 0,-2.2677 z" gorn="0.3.0.0.0.3.0.0.0.0.0.0.0.3"  id="connector0pin" fill="#ffe500"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="matrix(1.25,0,0,1.25,-13.206061,1085.3184)">
+                                        <g >
+                                            <g >
+                                                <text font-family="OCRA" gorn="0.3.0.0.0.3.0.0.0.1.0.0.0" font-size="3.2"  x="33.579144" y="-29.868372" id="tspan11445" fill="#ffffff">GND</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="matrix(1.25,0,0,1.25,-13.206061,1085.3184)">
+                                        <g >
+                                            <g >
+                                                <text font-family="OCRA" gorn="0.3.0.0.0.3.0.0.0.2.0.0.0" font-size="3.2"  x="33.579144" y="-35.621315" id="tspan11445-6" fill="#ffffff">VCC</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="matrix(1.25,0,0,1.25,-13.206061,1085.3184)">
+                                        <g >
+                                            <g >
+                                                <text gorn="0.3.0.0.0.3.0.0.0.3.0.0.0" font-size="3.2"  x="33.579144" y="-41.37426" id="tspan11445-1" style="font-size:3.20000005px;fill:#ffffff;font-family:OCRA">DI</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="matrix(1.25,0,0,1.25,-13.206061,1085.3184)">
+                                        <g >
+                                            <g >
+                                                <text gorn="0.3.0.0.0.3.0.0.0.4.0.0.0" font-size="3.2"  x="33.579144" y="-47.127209" id="tspan11445-7" style="font-size:3.20000005px;fill:#ffffff;font-family:OCRA">CI</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0,-1,1,0,-993.12054,1006.2377)">
+                        <g >
+                            <g >
+                                <g gorn="0.3.0.0.0.4.0.0.0"  id="g7904-3">
+                                    <g  transform="matrix(1.2499976,0,0,1.2499976,5.654439,-260.7532)">
+                                        <g >
+                                            <g >
+                                                <g gorn="0.3.0.0.0.4.0.0.0.0.0.0.0"  id="g102-3">
+                                                    <path d="m 15.662983,1029.8187 0,-2.2677 2.267515,0 0,2.2677 -2.267515,0 z" gorn="0.3.0.0.0.4.0.0.0.0.0.0.0.0"  id="connector7pin" fill="#ffe500"/>
+                                                    <path d="m 17.930539,1033.1832 0,2.2677 -2.267556,0 0,-2.2677 2.267556,0 z" gorn="0.3.0.0.0.4.0.0.0.0.0.0.0.1"  id="connector6pin" fill="#ffe500"/>
+                                                    <path d="m 15.662983,1038.9076 2.267515,0 0,2.2677 -2.267515,0 0,-2.2677 z" gorn="0.3.0.0.0.4.0.0.0.0.0.0.0.2"  id="connector5pin" fill="#ffe500"/>
+                                                    <path d="m 15.662983,1044.5859 2.267515,0 0,2.2677 -2.267515,0 0,-2.2677 z" gorn="0.3.0.0.0.4.0.0.0.0.0.0.0.3"  id="connector4pin" fill="#ffe500"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="matrix(1.25,0,0,1.25,-27.206061,1085.3184)">
+                                        <g >
+                                            <g >
+                                                <text font-family="OCRA" gorn="0.3.0.0.0.4.0.0.0.1.0.0.0" font-size="3.2"  x="33.579144" y="-29.868372" id="tspan11445-3" fill="#ffffff">GND</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="matrix(1.25,0,0,1.25,-27.206061,1085.3184)">
+                                        <g >
+                                            <g >
+                                                <text font-family="OCRA" gorn="0.3.0.0.0.4.0.0.0.2.0.0.0" font-size="3.2"  x="33.579144" y="-35.621315" id="tspan11445-6-3" fill="#ffffff">VCC</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <text gorn="0.3.0.0.0.4.0.0.0.3"  x="17.658493" y="1034.0062" id="tspan11445-3-5" style="font-size:4;fill:#ffffff;font-family:OCRA">DO</text>
+                                    <text gorn="0.3.0.0.0.4.0.0.0.4"  x="17.658493" y="1026.8151" id="tspan11445-6-3-4" style="font-size:4;fill:#ffffff;font-family:OCRA">CO</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <text gorn="0.3.0.0.0.5"  x="51.068878" y="1001.3528" id="tspan11445-1-3-9" style="font-size:4;fill:#ffffff;font-family:OCRA">Chainable</text>
+                    <text gorn="0.3.0.0.0.6"  x="53.693096" y="1006.8391" id="tspan11445-1-3-9-4" style="font-size:4;fill:#ffffff;font-family:OCRA">RGB LED</text>
+                    <g  transform="translate(1.7716534,0.39902008)">
+                        <g >
+                            <g >
+                                <g gorn="0.3.0.0.0.7.0.0.0"  id="g5970">
+                                    <path d="m 20.159062,1018.6367 0,-12.0632 0,0" stroke-width="0.786767" gorn="0.3.0.0.0.7.0.0.0.0"  fill-opacity="1" stroke-opacity="1" id="path3052" fill="#ffffff" stroke="#ffffff" style="stroke-linecap:butt;stroke-linejoin:miter;marker-end:none"/>
+                                    <g  transform="matrix(-0.49999998,0,0,-1,26.359849,1033.0092)">
+                                        <g >
+                                            <g >
+                                                <path d="m 12.401575,33.165354 -2.301445,-3.986221 -2.3014458,-3.98622 4.6028908,0 4.602891,0 -2.301446,3.98622 z" gorn="0.3.0.0.0.7.0.0.0.1.0.0.0"  fill-opacity="1" id="path5968" fill="#ffffff" stroke="none"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="60" gorn="0"  id="svg2" version="1.1" width="102">
+    <desc >
+        <referenceFile >svg.breadboard.ble_smurfs_breadboard.svg</referenceFile>
+    </desc>
+    <defs  id="defs70"/>
+    <metadata  id="metadata13579">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="matrix(1.25,0,0,1.25,-0.202491,-0.06622875)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.3.0.0.0.0"  id="g3317">
+                        <g  transform="translate(-4.0630072,-79.547017)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <g gorn="0.3.0.0.0.0.0.0.0.0.0"  id="surface12848">
+                                            <g  transform="scale(0.8,0.8)">
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <path gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  fill="#3465a4" id="path281-0" d="m 5.625,100.3125 0,58.375 101.3125,0 0,-58.375 -0.8125,0 c -0.18398,1.39345 -2.25352,1.39345 -2.4375,0 l -1.1875,0 c -0.18168,1.39345 -2.22457,1.39345 -2.40625,0 l -1.1875,0 c -0.18168,1.39345 -2.22457,1.39345 -2.40625,0 l -1.1875,0 c -0.18168,1.39345 -2.22457,1.39345 -2.40625,0 l -1.1875,0 c -0.18398,1.39345 -2.25352,1.39345 -2.4375,0 l -1.15625,0 c -0.18398,1.39345 -2.25352,1.39345 -2.4375,0 l -1.1875,0 c -0.18168,1.39345 -2.22457,1.39345 -2.40625,0 l -1.1875,0 c -0.18168,1.39345 -2.22457,1.39345 -2.40625,0 l -4.78125,0 c -0.18398,1.39345 -2.25352,1.39345 -2.4375,0 l -1.15625,0 c -0.18398,1.39345 -2.25352,1.39345 -2.4375,0 l -1.1875,0 c -0.18168,1.39345 -2.22457,1.39345 -2.40625,0 l -1.1875,0 c -0.18168,1.39345 -2.22457,1.39345 -2.40625,0 l -4.78125,0 c -0.18398,1.39345 -2.25352,1.39345 -2.4375,0 l -1.15625,0 c -0.18398,1.39345 -2.25352,1.39345 -2.4375,0 l -1.1875,0 c -0.18168,1.39345 -2.22457,1.39345 -2.40625,0 l -22.78125,0 c -0.18168,1.39345 -2.22457,1.39345 -2.40625,0 l -1.1875,0 c -0.18398,1.39345 -2.25352,1.39345 -2.4375,0 l -1.15625,0 c -0.18398,1.39345 -2.25352,1.39345 -2.4375,0 l -1.1875,0 c -0.18168,1.39345 -2.22457,1.39345 -2.40625,0 l -1.1875,0 c -0.1816804,1.39345 -2.2245696,1.39345 -2.40625,0 l -0.875,0 z m 4.5625,4.8125 c 1.44043,0 2.875,0.95605 2.875,2.875 0,3.84277 -5.78125,3.84277 -5.78125,0 0,-1.91895 1.4658203,-2.875 2.90625,-2.875 z m 0,9 c 1.44043,0 2.875,0.95605 2.875,2.875 0,3.84277 -5.78125,3.84277 -5.78125,0 0,-1.91895 1.4658203,-2.875 2.90625,-2.875 z m 0,9 c 1.44043,0 2.875,0.95361 2.875,2.875 0,3.83789 -5.78125,3.83789 -5.78125,0 0,-1.92139 1.4658203,-2.875 2.90625,-2.875 z m 0,9 c 1.44043,0 2.875,0.95361 2.875,2.875 0,3.83789 -5.78125,3.83789 -5.78125,0 0,-1.92139 1.4658203,-2.875 2.90625,-2.875 z m 0,9 c 1.44043,0 2.875,0.95605 2.875,2.875 0,3.84277 -5.78125,3.84277 -5.78125,0 0,-1.91895 1.4658203,-2.875 2.90625,-2.875 z m -2.90625,9 5.78125,0 0,5.75 -5.78125,0 0,-5.75 z" stroke-width="0.5" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" stroke-opacity="1" stroke="#000000"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g  transform="matrix(72,0,0,-72,-10.8666,131.5834)">
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <path gorn="0.3.0.0.0.0.0.0.0.0.0.1.0.0.0.0"  fill="#eeeeec" id="path4947" d="m 1.307392,0.159416 -0.196777,0 0,-0.0788306 m 0,0 0.196777,0 0,0.0788306" stroke="none"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <path gorn="0.3.0.0.0.0.0.0.0.0.0.2"  fill="#eeeeec" id="path5019" d="m 67.542969,122.94531 c 0,-0.96093 -1.441406,-0.96093 -1.441406,0 0,0.95703 1.441406,0.95703 1.441406,0" style="fill-rule:evenodd;" fill-opacity="1" stroke="none"/>
+                                            <rect height="12" gorn="0.3.0.0.0.0.0.0.0.0.0.3"  fill="#2e3436" id="rect8236" x="14.813804" fill-opacity="1" width="12" y="97.536659" stroke="none"/>
+                                            <rect height="17.274612" gorn="0.3.0.0.0.0.0.0.0.0.0.4"  fill="#2e3436" id="rect8236-1" x="33.6157" fill-opacity="1" width="17.274612" y="98.60688" stroke="none"/>
+                                            <path gorn="0.3.0.0.0.0.0.0.0.0.0.5"  fill="#eeeeec" id="path4673-9" d="m 83.382768,85.144552 -12.24216,0 0,0 0,11.519496 12.24216,0 m 0,-11.519496 1.460952,0 m -1.460952,11.519496 0,-11.519496 m 0,11.519496 1.460952,0" stroke-width="0.35999998" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;" stroke-opacity="1" stroke="#eeeeec"/>
+                                            <rect height="9.0288191" gorn="0.3.0.0.0.0.0.0.0.0.0.6"  fill="#eeeeec" id="rect3873-4" x="14.433624" fill-opacity="1" width="12.613248" y="116.93752" stroke="none"/>
+                                            <rect rx="1.7" height="5.7235146" gorn="0.3.0.0.0.0.0.0.0.0.0.7" ry="2.4000001"  fill="#2e3436" id="rect3875-0" x="15.746201" fill-opacity="1" width="9.9880943" y="118.59017" stroke="none"/>
+                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.8"  font-size="32" fill="#eeeeec" id="text9175-5-9" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" fill-opacity="1" stroke="none" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+                                                <text gorn="0.3.0.0.0.0.0.0.0.0.0.8.0"  id="tspan9177-1-4" style="font-size:4.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;font-family:OCRA;-inkscape-font-specification:OCRA" x="62.670609" y="104.3063">RGB</text>
+                                                <text gorn="0.3.0.0.0.0.0.0.0.0.0.8.1"  id="tspan3952" style="font-size:4.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;font-family:OCRA;-inkscape-font-specification:OCRA" x="62.670609" y="110.3063">LED</text>
+                                            </g>
+                                            <g  transform="translate(-18.986083,1.9528203)">
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.9.0.0.0.0"  id="g3986">
+                                                                <path gorn="0.3.0.0.0.0.0.0.0.0.0.9.0.0.0.0.0"  fill="#ef2929" id="path5203-4" d="m 92.773403,105.96586 4.96875,0 0,-4.96875 -4.96875,0 z m 0,0" style="fill-rule:evenodd;" fill-opacity="1" stroke="none"/>
+                                                                <path gorn="0.3.0.0.0.0.0.0.0.0.0.9.0.0.0.0.1"  fill="#8ae234" id="path5203-5" d="m 97.742153,103.48148 4.968747,0 0,-4.96875 -4.968747,0 z m 0,0" style="fill-rule:evenodd;" fill-opacity="1" stroke="none"/>
+                                                                <path gorn="0.3.0.0.0.0.0.0.0.0.0.9.0.0.0.0.2"  fill="#729fcf" id="path5203-51" d="m 97.742153,108.45023 4.968747,0 0,-4.96875 -4.968747,0 z m 0,0" style="fill-rule:evenodd;" fill-opacity="1" stroke="none"/>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g  transform="translate(32.668333,-4.9497475)">
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.10.0.0.0.0"  id="g4049">
+                                                                <path gorn="0.3.0.0.0.0.0.0.0.0.0.10.0.0.0.0.0"  fill="none" id="path5177-7" d="m -26.691903,129.51771 4.609375,0 0,-4.60937 -4.609375,0 z m 0,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                                <path gorn="0.3.0.0.0.0.0.0.0.0.0.10.0.0.0.0.1"  fill="none" id="connector6pin" d="m -22.082528,120.01381 c 0,-3.07032 -4.609375,-3.07032 -4.609375,0 0,3.07421 4.609375,3.07421 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                                <path gorn="0.3.0.0.0.0.0.0.0.0.0.10.0.0.0.0.2"  fill="none" id="connector5pin" d="m -22.082528,112.81459 c 0,-3.07422 -4.609375,-3.07422 -4.609375,0 0,3.07031 4.609375,3.07031 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                                <path gorn="0.3.0.0.0.0.0.0.0.0.0.10.0.0.0.0.3"  fill="none" id="connector3pin" d="m -22.082528,105.61537 c 0,-3.07422 -4.609375,-3.07422 -4.609375,0 0,3.07031 4.609375,3.07031 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                                <path gorn="0.3.0.0.0.0.0.0.0.0.0.10.0.0.0.0.4"  fill="none" id="connector2pin" d="m -22.082528,98.412247 c 0,-3.070312 -4.609375,-3.070312 -4.609375,0 0,3.074213 4.609375,3.074213 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                                <path gorn="0.3.0.0.0.0.0.0.0.0.0.10.0.0.0.0.5"  fill="none" id="connector1pin" d="m -22.082528,91.213029 c 0,-3.070313 -4.609375,-3.070313 -4.609375,0 0,3.074219 4.609375,3.074219 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                                <path gorn="0.3.0.0.0.0.0.0.0.0.0.10.0.0.0.0.6"  fill="none" id="connector0pin" d="m -22.082528,127.21157 c 0,-3.07032 -4.609375,-3.07032 -4.609375,0 0,3.07421 4.609375,3.07421 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.11"  font-size="32" fill="#eeeeec" id="text9175-5-1-3" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" fill-opacity="1" stroke="none" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+                                                <text gorn="0.3.0.0.0.0.0.0.0.0.0.11.0"  id="tspan9177-1-42-2" style="font-size:4.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;font-family:OCRA;-inkscape-font-specification:OCRA" x="27.921776" y="95.871994">nRF51822</text>
+                                            </g>
+                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.12"  font-size="25.4983" fill="#eeeeec" id="text9175-5-1-3-2" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" fill-opacity="1" stroke="none" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+                                                <text gorn="0.3.0.0.0.0.0.0.0.0.0.12.0"  id="tspan9177-1-42-2-1" style="font-size:3.82473969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#eeeeec;font-family:OCRA;-inkscape-font-specification:OCRA" x="20.811235" y="102.63784">MPU</text>
+                                                <text gorn="0.3.0.0.0.0.0.0.0.0.0.12.1"  id="tspan4141" style="font-size:3.82473969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#eeeeec;font-family:OCRA;-inkscape-font-specification:OCRA" x="20.811235" y="107.41876">6050</text>
+                                            </g>
+                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.13"  font-size="32" fill="#eeeeec" id="text9175-5-1-3-6" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" fill-opacity="1" stroke="none" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+                                                <text gorn="0.3.0.0.0.0.0.0.0.0.0.13.0"  id="tspan9177-1-42-2-8" style="font-size:4.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;font-family:OCRA;-inkscape-font-specification:OCRA" x="28.104441" y="123.32393">BUTTON</text>
+                                            </g>
+                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.14"  font-size="32" fill="#eeeeec" id="text9175-5-1-6-8" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" fill-opacity="1" stroke="none" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+                                                <text gorn="0.3.0.0.0.0.0.0.0.0.0.14.0"  id="tspan9177-1-42-1-9" style="font-size:4.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;font-family:OCRA;-inkscape-font-specification:OCRA" x="59.490345" y="92.776299">BAT</text>
+                                            </g>
+                                            <rect height="3.1670582" gorn="0.3.0.0.0.0.0.0.0.0.0.15"  fill="#eeeeec" id="connector8pin" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" x="79.318642" fill-opacity="1" width="3.5989299" y="85.571518" stroke="#eeeeec"/>
+                                            <g  transform="scale(1.3719761,0.72887568)">
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.16.0.0.0.0"  font-size="8.78065" fill="#555753" id="text3140-7" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" fill-opacity="1" stroke="none" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+                                                                <text gorn="0.3.0.0.0.0.0.0.0.0.0.16.0.0.0.0.0"  id="tspan3142-4" x="57.710163" y="121.92844">-</text>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <rect height="3.1670582" gorn="0.3.0.0.0.0.0.0.0.0.0.17"  fill="#eeeeec" id="connector7pin" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" x="79.333687" fill-opacity="1" width="3.5989299" y="92.662834" stroke="#eeeeec"/>
+                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.18"  font-size="6.4" fill="#555753" id="text3140" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" fill-opacity="1" stroke="none" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+                                                <text gorn="0.3.0.0.0.0.0.0.0.0.0.18.0"  id="tspan3142" x="79.370651" y="96.508865">+</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

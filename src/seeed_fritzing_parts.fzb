@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module fritzingVersion="0.9.0b.06.11.da4e" icon="Mine.png">
+<module fritzingVersion="0.8.5b.12.16.8b2c" icon="Mine.png">
     <title>Seeed</title>
     <instances>
-        <instance moduleIdRef="arch_pro_v1" modelIndex="5922" path="/home/beta/.config/Fritzing/parts/contrib/arch_pro_v1.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="arch_v1.1" modelIndex="5923" path="/home/beta/.config/Fritzing/parts/contrib/arch_v1.1.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="seeeduino_v3" modelIndex="5925" path="/home/beta/.config/Fritzing/parts/contrib/seeeduino_v3.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="grove_oled_128x96" modelIndex="5924" path="/home/beta/.config/Fritzing/parts/contrib/grove_oled_128x96.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="grove_light_sensor" modelIndex="5927" path="/home/beta/.config/Fritzing/parts/contrib/grove_light_sensor.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="grove_temperature_sensor" modelIndex="5928" path="/home/beta/.config/Fritzing/parts/contrib/grove_temperature_sensor.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="grove_infrared_receiver" modelIndex="5929" path="/home/beta/.config/Fritzing/parts/contrib/grove_infrared_receiver.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="grove_infrared_emitter" modelIndex="5930" path="/home/beta/.config/Fritzing/parts/contrib/grove_infrared_emitter.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="grove_buzz" modelIndex="5932" path="/home/beta/.config/Fritzing/parts/user/grove_buzz.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="grove_button" modelIndex="5940" path="/home/beta/.config/Fritzing/parts/user/grove_button.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="grove_3axis_digital_accelerometer_16g" modelIndex="6148" path="/home/beta/.config/Fritzing/parts/user/grove_3axis_digital_accelerometer_16g.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="grove_4digit_display" modelIndex="6149" path="/home/beta/.config/Fritzing/parts/user/grove_4digit_display.fzp">
-            <views/>
-        </instance>
+        <instance moduleIdRef="arch_pro_v1" modelIndex="149282">
+                    </instance>
+        <instance moduleIdRef="arch_v1.1" modelIndex="149283">
+                    </instance>
+        <instance moduleIdRef="arch_ble_82babccb63a29a72165a2ae668791ae2_33" modelIndex="149299">
+                    </instance>
+        <instance moduleIdRef="seeeduino_v3" modelIndex="149284">
+                    </instance>
+        <instance moduleIdRef="grove_light_sensor" modelIndex="149285">
+                    </instance>
+        <instance moduleIdRef="grove_temperature_sensor" modelIndex="149286">
+                    </instance>
+        <instance moduleIdRef="grove_infrared_receiver" modelIndex="149287">
+                    </instance>
+        <instance moduleIdRef="grove_infrared_emitter" modelIndex="149288">
+                    </instance>
+        <instance moduleIdRef="grove_buzz" modelIndex="149289">
+                    </instance>
+        <instance moduleIdRef="grove_button" modelIndex="149290">
+                    </instance>
+        <instance moduleIdRef="grove_3axis_digital_accelerometer_16g" modelIndex="149291">
+                    </instance>
+        <instance moduleIdRef="grove_potentiometer_c62032f7ee35ddfe7b9a0e6976db948f_3" modelIndex="149292">
+                    </instance>
+        <instance moduleIdRef="grove_chainable_rgb_led_274e57ac0b7cbfe5c9225af54fbb68b5_15" modelIndex="149293">
+                    </instance>
+        <instance moduleIdRef="grove_4digit_display" modelIndex="149294">
+                    </instance>
+        <instance moduleIdRef="grove_oled_128x96" modelIndex="149295">
+                    </instance>
+        <instance moduleIdRef="base_shield_v2_cd2b6af6e135ba0da8257ba9f2af9844_14" modelIndex="149296">
+                    </instance>
+        <instance moduleIdRef="ble_micro_623fcaf5dbccd172d16928552d92504c_13" modelIndex="149297">
+                    </instance>
+        <instance moduleIdRef="tiny_ble_25bbf3726c16cf5e50695e3048eac21f_1" modelIndex="149298">
+                    </instance>
     </instances>
 </module>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" height="59.400002" gorn="0" viewBox="0 0 104.4 59.400004"  id="Layer_1" xml:space="preserve" version="1.1" enable-background="new 0 0 72 46.8" x="0px" width="104.4" y="0px" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+    <desc  id="desc3">
+        <referenceFile  id="referenceFile5">grove_generic_pcb.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata48">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs46"/>
+    <g  transform="translate(2.6569176,1.0381659)">
+        <g >
+            <g >
+                <g gorn="0.3.0.0.0"  id="copper0">
+                    <g  transform="matrix(1.2500001,0,0,1.2500001,-122.28126,-94.831507)">
+                        <g >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.0.0.0"  id="copper1">
+                                    <g  transform="translate(126.19334,-10.154546)">
+                                        <g >
+                                            <g >
+                                                <g gorn="0.3.0.0.0.0.0.0.0.0.0.0.0"  id="g4049">
+                                                    <path gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0"  fill="none" id="connector0pin" d="m -26.691903,129.51771 4.609375,0 0,-4.60937 -4.609375,0 z m 0,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                    <path gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.1"  fill="none" id="connector6pin" d="m -22.082528,120.01381 c 0,-3.07032 -4.609375,-3.07032 -4.609375,0 0,3.07421 4.609375,3.07421 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                    <path gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.2"  fill="none" id="connector5pin" d="m -22.082528,112.81459 c 0,-3.07422 -4.609375,-3.07422 -4.609375,0 0,3.07031 4.609375,3.07031 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                    <path gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.3"  fill="none" id="connector3pin" d="m -22.082528,105.61537 c 0,-3.07422 -4.609375,-3.07422 -4.609375,0 0,3.07031 4.609375,3.07031 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                    <path gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.4"  fill="none" id="connector2pin" d="m -22.082528,98.412247 c 0,-3.070312 -4.609375,-3.070312 -4.609375,0 0,3.074213 4.609375,3.074213 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                    <path gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.5"  fill="none" id="connector1pin" d="m -22.082528,91.213029 c 0,-3.070313 -4.609375,-3.070313 -4.609375,0 0,3.074219 4.609375,3.074219 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                    <path gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.6"  fill="none" id="path5179-1-6" d="m -22.082528,127.21157 c 0,-3.07032 -4.609375,-3.07032 -4.609375,0 0,3.07421 4.609375,3.07421 4.609375,0" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" stroke="#edd400"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <rect height="3.1670582" gorn="0.3.0.0.0.0.0.0.0.1"  fill="#fce94f" id="connector8pin" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" x="168.04366" fill-opacity="1" width="5.66154" y="80.36673" stroke="#fce94f"/>
+                                    <rect height="3.1670582" gorn="0.3.0.0.0.0.0.0.0.2"  fill="#fce94f" id="connector7pin" stroke-width="1.03999996" style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" x="168.06732" fill-opacity="1" width="5.66154" y="87.458046" stroke="#fce94f"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g gorn="0.4"  id="silkscreen">
+        <path  fill="none" d="m 2.4006657,0.65065944 0,58.37501556 101.3125043,0 0,-58.37501556 -0.8125,0 c -0.18397,1.39344996 -2.25351,1.39344996 -2.4375,0 l -1.187499,0 c -0.181675,1.39344996 -2.224563,1.39344996 -2.406251,0 l -1.1875,0 c -0.181675,1.39344996 -2.224562,1.39344996 -2.40625,0 l -1.1875,0 c -0.181675,1.39344996 -2.224562,1.39344996 -2.40625,0 l -1.1875,0 c -0.183975,1.39344996 -2.253512,1.39344996 -2.4375,0 l -1.15625,0 c -0.183975,1.39344996 -2.253512,1.39344996 -2.4375,0 l -1.1875,0 c -0.181675,1.39344996 -2.224562,1.39344996 -2.40625,0 l -1.1875,0 c -0.181675,1.39344996 -2.224563,1.39344996 -2.406251,0 l -4.78125,0 c -0.183975,1.39344996 -2.253512,1.39344996 -2.4375,0 l -1.15625,0 c -0.183975,1.39344996 -2.253512,1.39344996 -2.4375,0 l -1.1875,0 c -0.181675,1.39344996 -2.224562,1.39344996 -2.40625,0 l -1.1875,0 c -0.181675,1.39344996 -2.224562,1.39344996 -2.40625,0 l -4.781251,0 c -0.183975,1.39344996 -2.253512,1.39344996 -2.4375,0 l -1.15625,0 c -0.183975,1.39344996 -2.253512,1.39344996 -2.4375,0 l -1.1875,0 c -0.181675,1.39344996 -2.224562,1.39344996 -2.40625,0 l -22.781251,0 c -0.181675,1.39344996 -2.224562,1.39344996 -2.40625,0 l -1.1875,0 c -0.183975,1.39344996 -2.253512,1.39344996 -2.4375,0 l -1.15625,0 c -0.183975,1.39344996 -2.253513,1.39344996 -2.437501,0 l -1.1874994,0 c -0.181675,1.39344996 -2.224562,1.39344996 -2.40625,0 l -1.1875,0 c -0.181675,1.39344996 -2.22457,1.39344996 -2.406251,0 z" stroke-width="0.5" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" stroke-opacity="1" stroke="#ffffff"/>
+    </g>
+</svg>
