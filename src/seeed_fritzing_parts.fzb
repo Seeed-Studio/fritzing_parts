@@ -38,5 +38,7 @@
                     </instance>
         <instance moduleIdRef="tiny_ble_25bbf3726c16cf5e50695e3048eac21f_1" modelIndex="149298">
                     </instance>
+        <instance moduleIdRef="lisa_ad06579d65071869cae244859b8af13a_2" modelIndex="149300">
+                    </instance>
     </instances>
 </module>
