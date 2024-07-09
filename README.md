@@ -5,7 +5,7 @@ This is a parts library for [Fritzing](http://fritzing.org/).
 
 ![](preview.png)
 
-Download the [seeed_fritzing_parts.fzbz](seeed_fritzing_parts.fzbz) file and open it in Fritzing to get started.
+Download the [seeed_fritzing_parts.fzbz](seeed_fritzing_parts.fzbz) or other .fzbz files listed in this repo and open it in Fritzing to get started.
 
 ----
 
