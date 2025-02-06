@@ -1,7 +1,8 @@
 Fritzing Parts of Seeed Hardware
 --------------------------------
 
-This is a parts library for [Fritzing](http://fritzing.org/). Here is the growing list of the Seeed Studio products that you can find their Fritzing Parts in this repo:
+This is a parts library for [Fritzing](http://fritzing.org/). Download the .fzbz files in this repo and open it in Fritzing to start your creations. 
+Here is the growing list of the Seeed Studio products that you can find their Fritzing Parts in this repo:
 - Seeed Studio XIAO Dev Boards, including [XIAO SAMD21](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html), [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html), [XIAO nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html), [XIAO nRF52840 Sense](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html), [XIAO ESP32C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html), [XIAO ESP32S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html), [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html), [XIAO ESP32C6](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html), [XIAO RP2350](https://www.seeedstudio.com/Seeed-XIAO-RP2350-p-5944.html), [XIAO RA4M1](https://www.seeedstudio.com/Seeed-XIAO-RA4M1-p-5943.html), [XIAO MG24](https://www.seeedstudio.com/Seeed-Studio-XIAO-MG24-p-6247.html), [XIAO MG24 Sense](https://www.seeedstudio.com/Seeed-XIAO-MG24-Sense-p-6248.html), [XIAO ESP32S3 Plus](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32S3-Plus-p-6361.html), [XIAO nRF52840 Plus](https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-Plus-p-6359.html), [XIAO nRF52840 Sense Plus](https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-Sense-Plus-p-6360.html)
 - Seeed Studio XIAO Add-ons of [Expansions, Sensors, Connectivity Modules, Actuators](https://www.seeedstudio.com/xiao-series-page)
 - Seeed Studio Wio-E5 Series LoRa Modules, Dev Boards
@@ -9,8 +10,8 @@ This is a parts library for [Fritzing](http://fritzing.org/). Here is the growin
 
 ![](preview.png)
 
-Download the .fzbz files in this repo and open it in Fritzing to start.
 Let us know by raising an issue if you want us to add a Fritzing part for some specific Seeed Studio Products. 
+Last but not least, a big shout-out to all contributors to this repo, just to name a few [Gokul](https://github.com/gokuxmaker),[vanepp](https://github.com/vanepp). Thank you for your contribution.💚
 
 ----
 
