@@ -11,7 +11,8 @@ Here is the growing list of the Seeed Studio products that you can find their Fr
 ![](preview.png)
 
 Let us know by raising an issue if you want us to add a Fritzing part for some specific Seeed Studio Products. 
-Last but not least, a big shout-out to all contributors to this repo, just to name a few [Gokul](https://github.com/gokuxmaker),[vanepp](https://github.com/vanepp). Thank you for your contribution.💚
+
+Last but not least, a big shout-out to all contributors to this repo, just to name a few [Gokul](https://github.com/gokuxmaker), and [vanepp](https://github.com/vanepp). Thank you for your contribution.💚
 
 ----
 
